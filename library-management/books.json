@@ -1,0 +1,53 @@
+{
+    "last_id": 14,
+    "books": [
+        {
+            "id": 7,
+            "title": "New Book",
+            "author": "Akibul Islam",
+            "genre": "Comedy",
+            "year": 2026,
+            "copies": 1
+        },
+        {
+            "id": 8,
+            "title": "Test book",
+            "author": "akibul islam",
+            "genre": "comedy",
+            "year": 2005,
+            "copies": 1
+        },
+        {
+            "id": 9,
+            "title": "Python",
+            "author": "Akibul Islam",
+            "genre": "Electronics",
+            "year": 2026,
+            "copies": 1
+        },
+        {
+            "id": 10,
+            "title": "Python 2",
+            "author": "Akibul Islam",
+            "genre": "Comedy",
+            "year": 202,
+            "copies": 2
+        },
+        {
+            "id": 12,
+            "title": "sam",
+            "author": "sam",
+            "genre": "sam",
+            "year": 2009,
+            "copies": 7
+        },
+        {
+            "id": 13,
+            "title": "sam",
+            "author": "Akibul Islam",
+            "genre": "sam",
+            "year": 2009,
+            "copies": 100
+        }
+    ]
+}
